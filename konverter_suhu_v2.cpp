@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
     int choice;
+    int halo;
     double temperature, reamur, fahrenheit, kelvin, celcius;
 
     do {
