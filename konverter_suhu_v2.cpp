@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
+    int halooo;
     int choice;
     double temperature, reamur, fahrenheit, kelvin, celcius;
 
