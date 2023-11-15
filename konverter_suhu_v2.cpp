@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
     int choice;
+    int aakdsnaoasn, akndask, ajsdaks;
     double temperature, reamur, fahrenheit, kelvin, celcius;
 
     do {
